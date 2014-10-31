@@ -6,10 +6,10 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Hangdude {
+
     class Program {
     
         static void Main(string[] args) {
-
             // Show Title
             Console.WriteLine("Hangdude");
             Console.WriteLine("========");
